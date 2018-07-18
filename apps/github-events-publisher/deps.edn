@@ -1,0 +1,3 @@
+{:deps
+ {github-api {:local/root "../../libs/github-api"}
+  nats       {:local/root "../../libs/nats"}}}

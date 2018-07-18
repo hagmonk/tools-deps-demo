@@ -1,0 +1,7 @@
+{:deps
+ {nats                   {:local/root "../../libs/nats"}
+  http-kit/http-kit      {:mvn/version "2.3.0"}
+  metosin/jsonista       {:mvn/version "0.2.1"}
+  org.clojure/core.async {:mvn/version "0.4.474"}
+  compojure/compojure    {:mvn/version "1.6.1"}
+  ring                   {:mvn/version "1.7.0-RC1"}}}
